@@ -1,3 +1,7 @@
+# Version 1
+# Je nach Knopfdruck werden die Nachrichten mittels 'kbdLayout.write'
+# direkt vom PICO an den Computer gesendet
+
 #benötigt Circuit Python und passende Module
 import board
 import digitalio
