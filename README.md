@@ -12,3 +12,5 @@ Ein aktualisierter Clipboard Manager ist [Clippy](https://github.com/Sulkar/Clip
 
 ![image](https://user-images.githubusercontent.com/10349796/135411863-d38dd002-0ab9-4e5b-ae89-5d86868567e2.png)
 
+Dieser Controller ist von Sarah :)
+![sarah](https://user-images.githubusercontent.com/10349796/159140991-a51c33eb-0a4e-40b6-9c72-36e655af2418.jpg)
